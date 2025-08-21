@@ -5,9 +5,9 @@ public class baitap1 {
         // B1: Tạo Scanner để đọc từ bàn phím
         Scanner scanner = new Scanner(System.in);
         // B2: Nhập 2 số nguyên
-        System.out.print("5");
+        System.out.print("Nhập số a:");
         int a = scanner.nextInt();
-        System.out.print("7");
+        System.out.print("Nhập số b:");
         int b = scanner.nextInt();
         // B3: Tính tổng
         int tong = a + b;
